@@ -57,14 +57,3 @@ CivicSense is designed using a modular architecture that separates responsibilit
 
 ---
 
-## 📂 Project Structure  
-CivicSense/
-│
-├── Frontend/ # User interface
-├── backend/ # Application logic and APIs
-├── duplicate_detection/ # Duplicate complaint detection module
-├── urgency/ # Urgency prediction module
-└── present.txt # Additional information
-
-
----
